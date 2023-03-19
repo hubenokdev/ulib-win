@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="3dcreater.cbp">
+			<Depends filename="ulib-win.cbp" />
+		</Project>
+		<Project filename="button.cbp">
+			<Depends filename="ulib-win.cbp" />
+		</Project>
+		<Project filename="calc.cbp">
+			<Depends filename="ulib-win.cbp" />
+		</Project>
+		<Project filename="chart.cbp">
+			<Depends filename="ulib-win.cbp" />
+		</Project>
+		<Project filename="combobox.cbp">
+			<Depends filename="ulib-win.cbp" />
+		</Project>
+		<Project filename="commondlg.cbp">
+			<Depends filename="ulib-win.cbp" />
+		</Project>
+		<Project filename="console.cbp" />
+		<Project filename="contact.cbp">
+			<Depends filename="ulib-win.cbp" />
+		</Project>
+		<Project filename="ctrls.cbp">
+			<Depends filename="ulib-win.cbp" />
+		</Project>
+		<Project filename="customctrl.cbp">
+			<Depends filename="ulib-win.cbp" />
+		</Project>
+		<Project filename="debug.cbp" active="1" />
+		<Project filename="edit.cbp" />
+		<Project filename="explorer.cbp">
+			<Depends filename="ulib-win.cbp" />
+		</Project>
+		<Project filename="filesplit.cbp">
+			<Depends filename="ulib-win.cbp" />
+		</Project>
+		<Project filename="floatwnd.cbp">
+			<Depends filename="ulib-win.cbp" />
+		</Project>
+		<Project filename="life.cbp" />
+		<Project filename="listbox.cbp">
+			<Depends filename="ulib-win.cbp" />
+		</Project>
+		<Project filename="listctrl.cbp">
+			<Depends filename="ulib-win.cbp" />
+		</Project>
+		<Project filename="mdi.cbp">
+			<Depends filename="ulib-win.cbp" />
+		</Project>
+		<Project filename="menu.cbp">
+			<Depends filename="ulib-win.cbp" />
+		</Project>
+		<Project filename="msg.cbp">
+			<Depends filename="ulib-win.cbp" />
+		</Project>
+		<Project filename="mytree.cbp">
+			<Depends filename="ulib-win.cbp" />
+		</Project>
+		<Project filename="progressbar.cbp">
+			<Depends filename="ulib-win.cbp" />
+		</Project>
+		<Project filename="propsheet.cbp">
+			<Depends filename="ulib-win.cbp" />
+		</Project>
+		<Project filename="qq.cbp">
+			<Depends filename="ulib-win.cbp" />
+		</Project>
+		<Project filename="qq2009.cbp" />
+		<Project filename="rebar.cbp">
+			<Depends filename="ulib-win.cbp" />
+		</Project>
+		<Project filename="refman.cbp">
+			<Depends filename="ulib-win.cbp" />
+		</Project>
+		<Project filename="sdi.cbp" />
+		<Project filename="static.cbp">
+			<Depends filename="ulib-win.cbp" />
+		</Project>
+		<Project filename="statusbar.cbp">
+			<Depends filename="ulib-win.cbp" />
+		</Project>
+		<Project filename="taskman.cbp">
+			<Depends filename="ulib-win.cbp" />
+		</Project>
+		<Project filename="toolbar.cbp">
+			<Depends filename="ulib-win.cbp" />
+		</Project>
+		<Project filename="treectrl.cbp">
+			<Depends filename="ulib-win.cbp" />
+		</Project>
+		<Project filename="tabctrl.cbp" />
+		<Project filename="time.cbp">
+			<Depends filename="ulib-win.cbp" />
+		</Project>
+		<Project filename="timer.cbp">
+			<Depends filename="ulib-win.cbp" />
+		</Project>
+		<Project filename="ulib-win.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>
